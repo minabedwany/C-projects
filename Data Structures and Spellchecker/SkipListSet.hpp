@@ -1,8 +1,5 @@
 // SkipListSet.hpp
 //
-// ICS 46 Spring 2018
-// Project #4: Set the Controls for the Heart of the Sun
-//
 // A SkipListSet is an implementation of a Set that is a skip list, implemented
 // as we discussed in lecture.  A skip list is a sequence of levels
 //
