@@ -1,8 +1,5 @@
 // HashSet.hpp
 //
-// ICS 46 Spring 2018
-// Project #4: Set the Controls for the Heart of the Sun
-//
 // A HashSet is an implementation of a Set that is a separately-chained
 // hash table, implemented as a dynamically-allocated array of linked
 // lists.  At any given time, the HashSet has a "size" indicating
