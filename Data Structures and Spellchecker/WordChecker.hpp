@@ -1,8 +1,5 @@
 // WordChecker.hpp
 //
-// ICS 46 Spring 2018
-// Project #4: Set the Controls for the Heart of the Sun
-//
 // The WordChecker class can check the spelling of single words and generate
 // suggestions for words that have been misspelled.
 //
