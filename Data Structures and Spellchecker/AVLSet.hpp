@@ -1,8 +1,5 @@
 // AVLSet.hpp
 //
-// ICS 46 Spring 2018
-// Project #4: Set the Controls for the Heart of the Sun
-//
 // An AVLSet is an implementation of a Set that is an AVL tree, which uses
 // the algorithms we discussed in lecture to maintain balance every time a
 // new element is added to the set.  The balancing is actually optional,
